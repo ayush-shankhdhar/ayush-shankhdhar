@@ -1,7 +1,23 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Android+Developer;Problem+Solver;Pro+Level+Builder" />
-</p>
+<!-- ================= PROFILE HEADER ================= -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00A8E8&size=33&center=true&vCenter=true&width=900&lines=Hey+There!+👋+I'm+Ayush+Shankhdhar!;Full-Stack+Developer+💻;Android+Developer+🤖;Problem+Solver+🧠;Welcome+to+my+GitHub+Profile!">
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <h1 align="center">Hi 👋, I'm Ayush Shankhdhar</h1>
 
@@ -22,9 +38,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
