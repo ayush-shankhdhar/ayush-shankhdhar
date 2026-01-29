@@ -1,75 +1,27 @@
-# Hi 👋, I'm Ayush Shankhdhar  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Deep+Android+Developer;Problem+Solver;Pro+Level+Builder" />
+</p>
 
-🎓 B.Tech Computer Science Student  
-💻 Full-Stack Developer (MERN)  
-🚀 Passionate about Problem Solving & Web Development  
+<h1 align="center">Hi 👋, I'm Ayush Shankhdhar</h1>
 
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **MERN Stack & AI projects**
-- 🌱 Learning **Data Structures, Algorithms & System Design**
-- 👨‍🏫 Mentored **250+ students** in coding
-- 🧠 Solved **200+ problems on LeetCode**
-- 📫 Reach me at: **your-email@gmail.com**
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 Deep Android Developer | 💎 Pro-Level Coder
+</h3>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Languages
-- C / C++
-- JavaScript
-- Python
-- PHP
-
-### 🌐 Frontend
-- HTML
-- CSS
-- Tailwind CSS
-- React.js
-
-### 🔧 Backend
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-
-### ⚙️ Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Linux
+- 🎓 B.Tech Computer Science Student  
+- 💻 Full Stack Developer (MERN + PHP)  
+- 📱 Deep Android Developer (Jetpack + Kotlin basics)  
+- 🧠 Solved **200+ DSA problems**  
+- 👨‍🏫 Mentored **250+ students**  
+- 🔥 Building **real-world & scalable projects**
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
-- 🐦 Twitter: https://twitter.com/your-handle  
-
----
-
-## ✨ Quote
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
----
-
-⭐ **If you like my profile, consider starring my repositories!**
+### 👨‍💻 Languages
