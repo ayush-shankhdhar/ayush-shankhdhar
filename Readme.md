@@ -35,7 +35,7 @@
 - 💻 Full Stack Developer (MERN + Next.js + PHP)  
 - 🤖 Building AI-powered apps (Generative AI, Voice AI, Automation)  
 - 📱 Android Developer (Jetpack Compose + Kotlin Basics)  
-- 🧠 Solved **200+ DSA problems (LeetCode)**  
+- 🧠 Solved **500+ DSA problems (LeetCode)**  
 - 👨‍🏫 Mentored **250+ students in DSA & Web Dev**  
 - 🚀 Built projects like **InstaForm.ai (AI Form Generator)**  
 - 🔥 Passionate about scalable systems & real-world products  
@@ -116,13 +116,60 @@
 - 🌍 Real-world impactful projects  
 
 ---
+## 🚀 Featured Projects
 
-## 📈 GitHub Stats
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-shankhdhar&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-shankhdhar&theme=tokyonight"/>
-</p>
+<a href="https://github.com/ayush-shankhdhar/HydraTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=HydraTrack&theme=tokyonight"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/ayush-shankhdhar/flashCard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=flashCard&theme=tokyonight"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://github.com/ayush-shankhdhar/Instaform.ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=Instaform.ai&theme=tokyonight"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/ayush-shankhdhar/RAGFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=RAGFlow&theme=tokyonight"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<a href="https://github.com/ayush-shankhdhar/FlashByte">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=FlashByte&theme=tokyonight"/>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/ayush-shankhdhar/Royal_pets">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayush-shankhdhar&repo=Royal_pets&theme=tokyonight"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
